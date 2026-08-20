@@ -1,4 +1,4 @@
-# Hi, I'm Paula
+# Hi, I'm Paula!
 
 Computer Science student (Data Analysis minor) at USFQ, Ecuador.
 
