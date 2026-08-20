@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Paula
 
-<!--
-**Paula-C3/Paula-C3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (Data Analysis minor) at USFQ, Ecuador.
 
-Here are some ideas to get you started:
+I build full-stack applications across mobile and backend, usually in hexagonal architecture, and I'm interested in data science and applied statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+`Flutter` `Dart` `FastAPI` `Python` `PostgreSQL` `Docker` `React` `Supabase`
+
+**Currently**
+- Finishing my CS degree at USFQ
+- Volunteering teaching programming and AI fundamentals to kids
+
+[LinkedIn](https://www.linkedin.com/in/paula-caicedo-b77b37252)
