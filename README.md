@@ -2,7 +2,7 @@
 
 Computer Science student (Data Analysis minor) at USFQ, Ecuador.
 
-I build full-stack applications across mobile and backend, usually in hexagonal architecture, and I'm interested in data science and applied statistics.
+I build full-stack applications across mobile and backend, usually in hexagonal architecture, and work on data analysis and applied statistics projects.
 
 **Stack**
 `Flutter` `Dart` `FastAPI` `Python` `PostgreSQL` `Docker` `React` `Supabase`
